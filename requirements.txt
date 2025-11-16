@@ -1,0 +1,10 @@
+streamlit
+pandas
+python-dotenv
+google-generativeai
+pdfplumber
+docx2txt
+PyMuPDF
+tiktoken
+numpy
+mineru[core]

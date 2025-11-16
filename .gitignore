@@ -1,0 +1,16 @@
+
+/venv_stage/
+
+.env
+
+**/__pycache__/
+*.pyc
+
+/temp_mineru_input/
+/temp_mineru_output/
+
+/data/samples.json
+
+.vscode/
+.idea/
+.DS_Store
